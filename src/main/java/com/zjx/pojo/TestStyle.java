@@ -4,5 +4,9 @@ public class TestStyle {
 
 	public TestStyle() {
 	}
+	
+	public void getStyle() {
+		System.out.println("增加金色主题");
+	}
 
 }
