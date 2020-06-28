@@ -14,6 +14,9 @@ public class User {
 		 this.age = age;
 	}
 	
+	public User(int id) {
+		this.id = id;
+	}
 	private int id;
 	
 	private String name;
