@@ -5,6 +5,13 @@ public class User {
 	public User(int id, String name) {
 		 this.id = id;
 		 this.name = name;
+
+	}
+	
+	public User(int id, String name, int age) {
+		 this.id = id;
+		 this.name = name;
+		 this.age = age;
 	}
 	
 	private int id;
