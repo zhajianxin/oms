@@ -7,6 +7,7 @@ public class TestStyle {
 	
 	public void getStyle() {
 		System.out.println("增加金色主题");
+		System.out.println("dsafdf");
 	}
 
 }
